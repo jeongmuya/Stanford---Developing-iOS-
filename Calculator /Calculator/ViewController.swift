@@ -59,7 +59,6 @@ class ViewController: UIViewController {
         }
     }
     
-    
     private var brain = CalculatorBrain()
     
     @IBAction private func performOperation(_ sender: UIButton) {
